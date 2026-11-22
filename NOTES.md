@@ -10,4 +10,4 @@ Level B2 for all four courses. Levels C1 and C2 will follow as updates. Install 
 
 Install steps and full notes: https://customgpter.github.io/polyfox/releases.html
 
-PolyFox.apk is 119991224 bytes. SHA-256: `277e953d34cabac27bfeef8980d7b02862806daddce62799a98cb9d102fecee9`
+PolyFox.apk is 119,991,224 bytes. SHA-256: `277e953d34cabac27bfeef8980d7b02862806daddce62799a98cb9d102fecee9`
