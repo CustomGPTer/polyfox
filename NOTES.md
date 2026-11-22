@@ -1,16 +1,12 @@
-The first public version of PolyFox, with levels A1 and A2. Levels B1 to C2 will follow as updates.
+Level B1 for all four courses. Levels B2 to C2 will follow as updates. Install it over the old version: your progress, streak and settings are kept.
 
-- Four separate courses: French, German, European Portuguese and Spanish (Spain). One is active at a time and each keeps its own place.
-- Levels A1 and A2 in every course: 60 units, 300 lessons, 720 words, more than 900 sentences and 180 grammar points.
-- Every word and sentence is spoken, with a slower replay.
-- Fifteen kinds of exercise, in both directions, with tap-a-word meanings and a Why? explanation after each answer.
-- A guide for every unit, a level check, and a word bank with every word learned.
-- Six stories in each course, read aloud line by line.
-- An exam at the end of A1 and A2: 30 questions from the whole level, 70% to pass. Passing A1 opens A2.
-- Five practice modes, a daily goal, a streak and one optional daily reminder.
-- Up to five people on one phone, and a backup file you save and restore yourself.
-- No internet permission, no account, no adverts.
+- Level B1 in French, German, European Portuguese and Spanish (Spain): 30 new units, 150 lessons, 360 words, about 480 sentences and 90 grammar points. Passing the A2 exam opens it.
+- B1 covers opinions, the news, work, the environment, feelings, the conditional, reported speech, the passive, linking words, formal letters and telling a story.
+- Six new stories in each course, opening through B1, and a B1 exam: 30 questions from the whole level, 70% to pass.
+- The level check now covers all 90 units.
+- The spoken audio is stored in a more compact format that takes about half the space, so the app is smaller than before.
+- Each course now has 90 units, 450 lessons, 1,080 words, more than 1,400 sentences and twelve stories.
 
 Install steps and full notes: https://customgpter.github.io/polyfox/releases.html
 
-PolyFox.apk is 108,827,174 bytes. SHA-256: `d8b5a84b60613d7b68da9066f6caaeb67c11cd9c9787cbee3d69b6f3732e7ac1`
+PolyFox.apk is 86,202,137 bytes. SHA-256: `d08e49534c8222298f4d3a7191ee994791a1fa569edbdc552e1d89aeab281465`
