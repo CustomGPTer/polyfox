@@ -7,4 +7,4 @@ A fix for word-tile questions that would not let you press Check. Please update.
 
 Install steps and full notes: https://customgpter.github.io/polyfox/releases.html
 
-PolyFox.apk is 196557501 bytes. SHA-256: `f9886b4e6449a7f79e38748fb262892c00bf016a5fb1f772f79822fc348f6adb`
+PolyFox.apk is 196,557,501 bytes. SHA-256: `f9886b4e6449a7f79e38748fb262892c00bf016a5fb1f772f79822fc348f6adb`
