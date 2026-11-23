@@ -24,6 +24,6 @@ jobs:
           cat PolyFox.apk.part-* > PolyFox.apk
           sha256sum -c PolyFox.apk.sha256
       - name: Publish the release
-        run: gh release create "v${{ inputs.version }}" PolyFox.apk --target main --title "PolyFox ${{ inputs.version }}" --notes-file NOTES.md
+        run: gh release create "v${{ inputs.version }}" PolyFox.apk --target main --title "PolyFox French ${{ inputs.version }}" --notes-file NOTES.md
         env:
           GH_TOKEN: ${{ github.token }}
