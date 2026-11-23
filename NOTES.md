@@ -1,11 +1,11 @@
-Level C1 for all four courses. Level C2 will follow as an update. Install it over the old version: your progress, streak and settings are kept.
+Level C2 for all four courses. The courses are now complete, from A1 to C2. Install it over the old version: your progress, streak and settings are kept.
 
-- Level C1 in French, German, European Portuguese and Spanish (Spain): 30 new units, 150 lessons, 360 words, 480 sentences and 90 grammar points. Passing the B2 exam opens it.
-- C1 covers hedging and stance, the economy, the mind, the city, art and criticism, ethics, globalisation, diplomacy at work, academic language, medicine and research, shades of feeling, dialects, journalism, environmental policy, humour and irony, education, rights, privacy, literary style, finance, reporting verbs, regional identity, proverbs, rhetoric and international relations.
-- Six new stories in each course, opening through C1, and a C1 exam: 30 questions from the whole level, 70% to pass.
-- The level check now covers all 150 units.
-- Each course now has 150 units, 750 lessons, 1,800 words, about 2,400 sentences and twenty-four stories.
+- Level C2 in French, German, European Portuguese and Spanish (Spain): 30 new units, 150 lessons, 360 words, about 480 sentences and 90 grammar points. Passing the C1 exam opens it.
+- C2 covers tact and criticism, law and contracts, idioms of the body, architecture, literary tenses, science and scepticism, condolences, slang, work and automation, participle clauses, cinema and theatre, mediation, false friends, history, advanced connectors, bureaucracy, advertising, food and terroir, nominalisation, crisis and resilience, space, fashion, music, precise verbs, the sea, volunteering, myths and legends, sleep, verbs and their prepositions, and fluency.
+- Six new stories in each course, opening through C2, and a C2 exam: 30 questions from the whole level, 70% to pass.
+- The level check now covers all 180 units.
+- With C2 the courses are complete: each now has 180 units, 900 lessons, 2,160 words, nearly 2,900 sentences and thirty stories.
 
 Install steps and full notes: https://customgpter.github.io/polyfox/releases.html
 
-PolyFox.apk is 158,429,857 bytes. SHA-256: `4b93f4f6430b6ef065001f4dec28fa6f2ee483d0ef934477b2f0b2398155d489`
+PolyFox.apk is 196,557,501 bytes. SHA-256: `2b8ed4c63cb727704a73fb61bd56b52f3eabd87b1a77c2bd745d3a4ac67171be`
