@@ -1,6 +1,6 @@
-# PolyFox
+# PolyFox French
 
-PolyFox is a free language course for Android. French, German, European Portuguese and Spanish from the first word to level C2, with spoken audio, stories and end-of-level exams. No adverts, no account, no internet.
+PolyFox French is a free French course for Android, from the first word to level C2. Spoken audio, speaking checked on the phone, conversations, stories, verb tables and level exams. No adverts, no account, no internet.
 
 Website: https://customgpter.github.io/polyfox/
 
