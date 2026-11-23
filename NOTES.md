@@ -1,10 +1,17 @@
-A fix for word-tile questions that would not let you press Check. Please update. Install it over the old version: your progress, streak and settings are kept.
+PolyFox is now PolyFox French: one language, made as good as it can be. German, Portuguese and Spanish will follow as their own apps. Install it over 0.7.1: your French progress, streak and settings are kept.
 
-- Fixed: the Check button never switched on for word-tile questions (Translate this sentence, Tap what you hear and Put the words in order), so a lesson could not be finished. Tap the tiles and Check now lights up as it should.
-- Fixed: the same fault on Tap the word that is wrong.
-- A tile question with a one-word answer, such as Bonjour !, is now titled Translate this instead of Translate this sentence.
-- A new automatic test now answers hundreds of these questions by tapping the screen, as a person would, so this cannot slip through again.
+- Speaking is checked on the phone. A speech model inside the app shows which words it understood. Nothing is sent anywhere, and you can still mark yourself.
+- Twelve conversations, from the café to a job interview. Say or type your part, or tap Help.
+- Every correct answer counts: over 690 other wordings are accepted, such as tu or vous, inversion, est-ce que and numbers as digits.
+- Choose whether lessons teach the man's or the woman's form of lines like "je suis fatigué(e)". Both are always accepted.
+- A wrong answer shows which words were wrong and why: gender, elision, negatives, agreement, verb endings, accents and word order.
+- "My answer is right" saves an answer you think should have passed, to share from Settings.
+- Reviews are timed by FSRS, the method behind Anki.
+- Verb tables for 428 verbs in eleven tenses, and a grammar book of all 357 rules.
+- Dictation practice, and twelve new stories (42 in all).
+- Tapping a word shows the meaning it has in that sentence.
+- Every voice clip recorded again from the corrected text.
+- Screen readers and large text are supported.
+- Fixes from a full review of the French course.
 
-Install steps and full notes: https://customgpter.github.io/polyfox/releases.html
-
-PolyFox.apk is 196,557,501 bytes. SHA-256: `f9886b4e6449a7f79e38748fb262892c00bf016a5fb1f772f79822fc348f6adb`
+PolyFox.apk is about 146 MB. Android 8 or later. SHA-256: 9bf2ea715cecb96721fafdea60837f39f48b8f8beefe493fa87af808312e3212
