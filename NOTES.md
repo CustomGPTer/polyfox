@@ -1,13 +1,11 @@
-Level B2 for all four courses. Levels C1 and C2 will follow as updates. Install it over the old version: your progress, streak and settings are kept.
+Level C1 for all four courses. Level C2 will follow as an update. Install it over the old version: your progress, streak and settings are kept.
 
-- Level B2 in French, German, European Portuguese and Spanish (Spain): 30 new units, 150 lessons, 360 words, about 480 sentences and 90 grammar points. Passing the B1 exam opens it.
-- B2 covers debating, work, health, money, the media, technology, politics, the climate, idioms, business, science and ethics, the law, migration, presenting, negotiating, and formal and informal language.
-- Six new stories in each course, opening through B2, and a B2 exam: 30 questions from the whole level, 70% to pass.
-- The level check now covers all 120 units.
-- Tap-a-word meanings are fuller: a word keeps every meaning it has had in earlier units, and longer phrases are recognised as a whole.
-- In the unit guides and the word-by-word list, a long phrase no longer runs into its meaning.
-- Each course now has 120 units, 600 lessons, 1,440 words, about 1,900 sentences and eighteen stories.
+- Level C1 in French, German, European Portuguese and Spanish (Spain): 30 new units, 150 lessons, 360 words, 480 sentences and 90 grammar points. Passing the B2 exam opens it.
+- C1 covers hedging and stance, the economy, the mind, the city, art and criticism, ethics, globalisation, diplomacy at work, academic language, medicine and research, shades of feeling, dialects, journalism, environmental policy, humour and irony, education, rights, privacy, literary style, finance, reporting verbs, regional identity, proverbs, rhetoric and international relations.
+- Six new stories in each course, opening through C1, and a C1 exam: 30 questions from the whole level, 70% to pass.
+- The level check now covers all 150 units.
+- Each course now has 150 units, 750 lessons, 1,800 words, about 2,400 sentences and twenty-four stories.
 
 Install steps and full notes: https://customgpter.github.io/polyfox/releases.html
 
-PolyFox.apk is 119,991,224 bytes. SHA-256: `277e953d34cabac27bfeef8980d7b02862806daddce62799a98cb9d102fecee9`
+PolyFox.apk is 158,429,857 bytes. SHA-256: `4b93f4f6430b6ef065001f4dec28fa6f2ee483d0ef934477b2f0b2398155d489`
