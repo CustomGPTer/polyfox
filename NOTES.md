@@ -1,17 +1,17 @@
-PolyFox is now PolyFox French: one language, made as good as it can be. German, Portuguese and Spanish will follow as their own apps. Install it over 0.7.1: your French progress, streak and settings are kept.
+Fixes from an independent review of 1.0.0. Install it over 1.0.0: your progress, streak and settings are kept.
 
-- Speaking is checked on the phone. A speech model inside the app shows which words it understood. Nothing is sent anywhere, and you can still mark yourself.
-- Twelve conversations, from the café to a job interview. Say or type your part, or tap Help.
-- Every correct answer counts: over 690 other wordings are accepted, such as tu or vous, inversion, est-ce que and numbers as digits.
-- Choose whether lessons teach the man's or the woman's form of lines like "je suis fatigué(e)". Both are always accepted.
-- A wrong answer shows which words were wrong and why: gender, elision, negatives, agreement, verb endings, accents and word order.
-- "My answer is right" saves an answer you think should have passed, to share from Settings.
-- Reviews are timed by FSRS, the method behind Anki.
-- Verb tables for 428 verbs in eleven tenses, and a grammar book of all 357 rules.
-- Dictation practice, and twelve new stories (42 in all).
-- Tapping a word shows the meaning it has in that sentence.
-- Every voice clip recorded again from the corrected text.
-- Screen readers and large text are supported.
-- Fixes from a full review of the French course.
+- Your answers are saved as you go, so none are lost if Android closes the app in the middle of a lesson.
+- Typing in conversations now works: the Send button no longer takes up the whole row.
+- Speaking is stricter about meaning: a different number (9 and 99), a negative added or left out, or a different key word no longer passes. Clear speech passes as often as before.
+- Speaking practice shows and plays the man's or woman's form you chose, with new recordings for the 71 lines that change.
+- If the phone cannot check a recording, it says so and lets you try again or mark it yourself.
+- Backups are checked before restoring: a damaged or edited file is refused and your progress is left as it was. Restoring also brings back the daily reminder.
+- If the phone is too full to save your progress, the app tells you and tries again.
+- Progress shows your real level, from A1 Beginner to C2 Proficient. The course counts as finished once the C2 exam is passed.
+- Recent mistakes clear once you get them right, and Smart review's count matches what it offers.
+- Looking up a word, marking yourself, or one wrong pair in matching brings the word back a little sooner.
+- Time with the app in the background no longer counts towards your daily goal.
+- Screen readers name every picture choice.
+- The speech model is loaded once and its memory is freed when you close the app.
 
-PolyFox.apk is about 146 MB. Android 8 or later. SHA-256: 9bf2ea715cecb96721fafdea60837f39f48b8f8beefe493fa87af808312e3212
+PolyFox.apk is about 146 MB. Android 8 or later. SHA-256: ae2c339a674780edd73b874619e64b6a18ed102c1b1781ede31d230723aebac7
